@@ -1,0 +1,10 @@
+name: macos_security
+title: NIST macOS Security Benchmarks
+copyright: 2021 Lucas J. Hall
+copyright_email: noreply@noreply
+maintainer: lucasjhall
+license: MIT
+summary: The macOS Security Compliance Project controls wrapped in InSpec.
+version: 1.0.0
+supports:
+  - platform-name: mac_os_x
