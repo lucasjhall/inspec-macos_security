@@ -58,7 +58,7 @@ Is available at [usnistgov/macos_security](https://github.com/usnistgov/macos_se
 #### Running the Generator
 
 - run [hello_nisty.py](./hello_nisty.py)
-- the script should generate the controls, sipping some items based on tags or checks
+- the script should generate the controls, skipping some items based on tags or checks
 
 ```shell
   Processing rule: os_user_app_installation_prohibit
